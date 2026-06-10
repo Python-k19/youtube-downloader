@@ -1,0 +1,5 @@
+# YT-GRABBER v4.0 Dependencies
+
+customtkinter>=5.2.0
+requests>=2.31.0
+# yt-dlp больше НЕ нужен — программа сама скачивает бинарник
